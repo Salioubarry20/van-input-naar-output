@@ -1,0 +1,6 @@
+print(' ---------------------------------------------------- ')
+print('|  Naam      : Fabian van Zandt ')                
+print('|  Adres     : Koekenbakkersplein 23 ')           
+print('|  Postcode  : 2834 EF ')                         
+print('|  Woonplaats: Houten ')                          
+print(' ---------------------------------------------------- ') 
